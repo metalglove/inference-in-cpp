@@ -1,0 +1,4 @@
+tensorflow==2.6
+tf2onnx==1.9.2
+matplotlib
+ipykernel
